@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm currently learning JavaScript Full Stack development <a href="https://www.theodinproject.com/paths/full-stack-javascript">@theodinproject</a>, on my journey to becoming a Web2 & Web3 developer.
 
