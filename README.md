@@ -11,7 +11,7 @@ I'm a french student, I got a Master's Degree in Music Production and I wrote a 
 💬 You can reach me on <a href="https://twitter.com/0xpolarzero">Twitter</a>. Feel free to ask me about anything!
 
 
-### Bonjour 👋
+## Bonjour 👋
 
 Je suis un développeur JavaScript Full Stack en devenir, et je suis actuellement la formation dispensée par <a href="https://www.theodinproject.com/paths/full-stack-javascript">@theodinproject</a>, pour devenir par la suite développeur hybride Web2 & Web3.
 
