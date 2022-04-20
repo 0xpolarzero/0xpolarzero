@@ -23,6 +23,10 @@ Je suis actuellement en deuxième année de Master en Production Musicale, et je
 
 💬 N'hésitez pas à me contacter sur [Twitter](https://twitter.com/0xpolarzero)!
 
-## Stats
+## My progress
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=polar0&show_icons=true&theme=midnight-purple)
+Stats | Languages
+--- | ---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=polar0&show_icons=true&theme=midnight-purple) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
