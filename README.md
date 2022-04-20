@@ -22,3 +22,7 @@ Je suis ouvert à toute opportunité enrichissante qui pourra me permettre d'ét
 Je suis actuellement en deuxième année de Master en Production Musicale, et je réalise un mémoire sur les applications de l'audio immersif dans les nouvelles technologies liées aux espaces virtuels, en particulier celles qui sont liées au "Métavers".
 
 💬 N'hésitez pas à me contacter sur [Twitter](https://twitter.com/0xpolarzero)!
+
+## Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=midnight-purple)
