@@ -25,4 +25,4 @@ Je suis actuellement en deuxième année de Master en Production Musicale, et je
 
 ## Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=midnight-purple)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=polar0&show_icons=true&theme=midnight-purple)
