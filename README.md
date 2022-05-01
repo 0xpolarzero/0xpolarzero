@@ -46,19 +46,10 @@ Je suis actuellement en deuxième année de Master en Production Musicale, et je
 
 ## My progress
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=polar0&show_icons=true&theme=midnight-purple&hide_border=true)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=polar0&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polar0&layout=compact&theme=midnight-purple&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-> Credit Anurag Hazra & Jonah Lawrence
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=polar0&show_icons=true&theme=highcontrast&hide_border=true&title_color=fbaf00&icon_color=fbaf00)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=polar0&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FBAF00&currStreakLabel=FBAF00&sideNums=FBAF00&ring=FBAF00)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polar0&layout=compact&theme=highcontrast&hide_border=true&title_color=fbaf00)](https://github.com/anuraghazra/github-readme-stats)
 
-
+> Credit Anurag Hazra & Jonah Lawrence
