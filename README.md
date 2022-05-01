@@ -46,11 +46,13 @@ Je suis actuellement en deuxième année de Master en Production Musicale, et je
 
 ## My progress
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=polar0&show_icons=true&theme=midnight-purple)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=polar0&show_icons=true&theme=midnight-purple&hide_border=true)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=polar0&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-> [Credit Anurag Hazra](https://github.com/anuraghazra/github-readme-stats)
+> Credit Anurag Hazra & Jonah Lawrence
 
 
 <a href="http://www.github.com/polar0"><img src="https://github-readme-streak-stats.herokuapp.com/?user=polar0&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
