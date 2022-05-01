@@ -53,3 +53,9 @@ Je suis actuellement en deuxième année de Master en Production Musicale, et je
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polar0&layout=compact&theme=highcontrast&hide_border=true&title_color=fbaf00)](https://github.com/anuraghazra/github-readme-stats)
 
 > Credit Anurag Hazra & Jonah Lawrence
+
+## My Socials
+
+<p>
+  <a href="https://www.linkedin.com/in/antton-lepretre" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/0xpolarzero" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+</p>
