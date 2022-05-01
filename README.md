@@ -2,7 +2,7 @@
 
 I'm currently learning JavaScript Full Stack development [@theodinproject](https://www.theodinproject.com/paths/full-stack-javascript), on my journey to becoming a Web2 & Web3 developer.
 
-I'm working with JavaScript, Node.js, React.js, Express, MongoDB, Three.js... Soon to acquire skills about Blockchain : Solidity, Hardhat, Truffle, Ethers.js, Web3.js, Thirdweb, Moralis, TheGraph...
+I'm working with JavaScript, Node.js, React.js, Jest, Express, MongoDB, Three.js... Soon to acquire skills about Blockchain : Solidity, Hardhat, Truffle, Ethers.js, Web3.js, Thirdweb, Moralis, TheGraph...
 
 I'm up for any opportunity that will allow me to grow my skills, collaborate, and help with anything I've learned so far!
 
@@ -15,7 +15,7 @@ I'm a french student, I'm doing a Master's Degree in Music Production and writin
 
 Je suis un développeur JavaScript Full Stack en devenir, et je suis actuellement la formation dispensée par [@theodinproject](https://www.theodinproject.com/paths/full-stack-javascript), pour devenir par la suite développeur hybride Web2 & Web3.
 
-Je travaille avec JavaScript, Node.js, React.js, Express, MongoDB, Three.js... Et serai bientôt aussi à l'aise avec les technologies liées à la Blockchain : Solidity, Hardhat, Truffle, Ethers.js, Web3.js, Thirdweb, Moralis, TheGraph...
+Je travaille avec JavaScript, Node.js, React.js, Jest, Express, MongoDB, Three.js... Et serai bientôt aussi à l'aise avec les technologies liées à la Blockchain : Solidity, Hardhat, Truffle, Ethers.js, Web3.js, Thirdweb, Moralis, TheGraph...
 
 Je suis ouvert à toute opportunité enrichissante qui pourra me permettre d'étendre mes compétences, de collaborer sur un projet, ou d'apporter une quelconque aide sur votre projet!
 
@@ -25,9 +25,9 @@ Je suis actuellement en deuxième année de Master en Production Musicale, et je
 
 ## My skills
 
-| <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a> | <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> | <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> | <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a> | <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a> |
+| <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a> | <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> | <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> | <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a> | <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a> | <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="36" height="36"/></a> |
 |---|---|---|---|---|
-| JavaScript | HTML | CSS | NodeJS | Webpack |
+| JavaScript | HTML | CSS | NodeJS | Webpack | Jest |
 
 
 ### Learning
