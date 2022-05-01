@@ -57,5 +57,5 @@ Je suis actuellement en deuxième année de Master en Production Musicale, et je
 ## My Socials
 
 <p>
-  <a href="https://www.linkedin.com/in/antton-lepretre" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />LinkedIn</a> &nbsp;&nbsp; <a href="https://www.twitter.com/0xpolarzero" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />Twitter</a>
+<a href="https://www.twitter.com/0xpolarzero" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/antton-lepretre" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
 </p>
