@@ -32,7 +32,7 @@ Je suis actuellement en deuxième année de Master en Production Musicale, et je
 
 # Learning
 
-| AJ | 
+| AJ | |
 |---|---|
 | Az | Az |
 
