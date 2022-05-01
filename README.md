@@ -54,10 +54,10 @@ Je suis actuellement en deuxième année de Master en Production Musicale, et je
 
 > Credit Anurag Hazra & Jonah Lawrence
 
-<a href="http://www.github.com/polar0"><img src="https://github-readme-stats.vercel.app/api?username=polar0&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="polar0's GitHub stats" /></a>
+<a href="http://www.github.com/polar0"><img src="https://github-readme-stats.vercel.app/api?username=polar0&show_icons=true&hide=&count_private=true&title_color=d6bfed&text_color=ffffff&icon_color=d6bfed&bg_color=000000&hide_border=true&show_icons=true" alt="polar0's GitHub stats" /></a>
 
-<a href="http://www.github.com/polar0"><img src="https://github-readme-streak-stats.herokuapp.com/?user=polar0&stroke=ffffff&background=000000&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/polar0"><img src="https://github-readme-streak-stats.herokuapp.com/?user=polar0&stroke=ffffff&background=000000&ring=d6bfed&fire=d6bfed&currStreakNum=ffffff&currStreakLabel=d6bfed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/polar0"><img src="https://activity-graph.herokuapp.com/graph?username=polar0&bg_color=000000&color=ffffff&line=a855f7&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/polar0"><img src="https://activity-graph.herokuapp.com/graph?username=polar0&bg_color=000000&color=ffffff&line=d6bfed&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/polar0" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=polar0&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/polar0" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=polar0&langs_count=10&title_color=d6bfed&text_color=ffffff&icon_color=d6bfed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
