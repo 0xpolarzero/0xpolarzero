@@ -50,7 +50,7 @@ Je suis actuellement en deuxième année de Master en Production Musicale, et je
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=polar0&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polar0ra&layout=compact&theme=midnight-purple&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 > Credit Anurag Hazra & Jonah Lawrence
 
