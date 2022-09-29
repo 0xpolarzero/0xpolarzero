@@ -48,7 +48,7 @@ I've just graduated with a Master's Degree in Music Production, and I wrote a re
 [![Twitter][twitter]](https://twitter.com/0xpolarzero/)
 [![LinkedIn][linkedin]](https://www.linkedin.com/in/antton-lepretre/)
 [![Hashnode][hashnode]](https://polarzero.hashnode.dev/) <br />
-[![0xpolarzero@gmail.com][email]]()
+[![0xpolarzero@gmail.com][email]](mailto:0xpolarzero@gmail.com)
 [![polarzero.eth][ethereum]]()
 
 [website]: https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
