@@ -28,7 +28,9 @@ I've just graduated with a Master's Degree in Music Production, and I wrote a re
 [![Moralis]](https://moralis.io/)
 [![IPFS]](https://ipfs.tech/)
 
-typescript
+## Objectives
+
+[![Typescript]](https://www.typescriptlang.org/)
 
 ## My progress
 
@@ -71,4 +73,5 @@ typescript
 [nextjs]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [ipfs]: https://img.shields.io/badge/IPFS-0A1B2B?style=for-the-badge&logo=ipfs
 [moralis]: https://custom-icon-badges.demolab.com/badge/Moralis-2559BB?style=for-the-badge&logo=moralis
+[typescript]: https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white
 
