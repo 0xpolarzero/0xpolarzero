@@ -23,14 +23,19 @@ I've just graduated with a Master's Degree in Music Production, and I wrote a re
 [![Chai]](https://www.chaijs.com/)
 [![Mocha]](https://mochajs.org/)
 [![Ganache]](https://trufflesuite.com/ganache/)
+[![ApolloGraphQL]](https://www.apollographql.com/)
 [![Chainlink]](https://chain.link/)
 [![Alchemy]](https://www.alchemy.com/)
+[![TheGraph]](https://thegraph.com/en/)
 [![Moralis]](https://moralis.io/)
 [![IPFS]](https://ipfs.tech/)
+[![Rainbow]](https://www.rainbowkit.com/)
+[![Wagmi]](https://wagmi.sh/)
+[![Antd]](https://ant.design/)
 
-## Objectives
+<!-- ## Objectives -->
 
-[![Typescript]](https://www.typescriptlang.org/)
+<!-- [![Typescript]](https://www.typescriptlang.org/) -->
 
 ## My progress
 
@@ -74,4 +79,9 @@ I've just graduated with a Master's Degree in Music Production, and I wrote a re
 [ipfs]: https://img.shields.io/badge/IPFS-0A1B2B?style=for-the-badge&logo=ipfs
 [moralis]: https://custom-icon-badges.demolab.com/badge/Moralis-2559BB?style=for-the-badge&logo=moralis
 [typescript]: https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white
+[rainbow]: https://custom-icon-badges.demolab.com/badge/Rainbowkit-032463?style=for-the-badge&logo=rainbow
+[wagmi]: https://custom-icon-badges.demolab.com/badge/Wagmi-1C1B1B?style=for-the-badge&logo=wagmi
+[antd]: https://img.shields.io/badge/Ant%20Design-0170FE.svg?style=for-the-badge&logo=Ant-Design&logoColor=white
+[thegraph]: https://custom-icon-badges.demolab.com/badge/TheGraph-0C0A1C?style=for-the-badge&logo=thegraph&logoColor=white
+[apollographql]: https://img.shields.io/badge/Apollo%20GraphQL-311C87.svg?style=for-the-badge&logo=Apollo-GraphQL&logoColor=white
 
