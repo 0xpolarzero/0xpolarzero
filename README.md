@@ -14,8 +14,6 @@ I've just graduated with a Master's Degree in Music Production, and I wrote a re
 
 [![JavaScript]](https://developer.mozilla.org/fr/docs/Web/JavaScript)
 [![Solidity]](https://soliditylang.org/)
-[![ReactJS]](https://reactjs.org/)
-[![NextJS]](https://nextjs.org/)
 [![NodeJS]](https://nodejs.org/)
 [![Hardhat]](https://hardhat.org/)
 [![EthersJS]](https://docs.ethers.io/v5/)
@@ -31,8 +29,11 @@ I've just graduated with a Master's Degree in Music Production, and I wrote a re
 [![IPFS]](https://ipfs.tech/)
 [![Rainbow]](https://www.rainbowkit.com/)
 [![Wagmi]](https://wagmi.sh/)
-[![Antd]](https://ant.design/)
+
+[![ReactJS]](https://reactjs.org/)
+[![NextJS]](https://nextjs.org/)
 [![Threejs]](https://threejs.org/)
+[![Antd]](https://ant.design/)
 
 <!-- ## Objectives -->
 
