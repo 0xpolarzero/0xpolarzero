@@ -32,6 +32,7 @@ I've just graduated with a Master's Degree in Music Production, and I wrote a re
 [![Rainbow]](https://www.rainbowkit.com/)
 [![Wagmi]](https://wagmi.sh/)
 [![Antd]](https://ant.design/)
+[![Threejs]](https://threejs.org/)
 
 <!-- ## Objectives -->
 
@@ -84,4 +85,5 @@ I've just graduated with a Master's Degree in Music Production, and I wrote a re
 [antd]: https://img.shields.io/badge/Ant%20Design-0170FE.svg?style=for-the-badge&logo=Ant-Design&logoColor=white
 [thegraph]: https://custom-icon-badges.demolab.com/badge/TheGraph-0C0A1C?style=for-the-badge&logo=thegraph&logoColor=white
 [apollographql]: https://img.shields.io/badge/Apollo%20GraphQL-311C87.svg?style=for-the-badge&logo=Apollo-GraphQL&logoColor=white
+[threejs]: https://img.shields.io/badge/Three.js-000000.svg?style=for-the-badge&logo=threedotjs&logoColor=white
 
