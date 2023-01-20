@@ -45,7 +45,7 @@ I've just graduated with a Master's Degree in Music Production, and I wrote a re
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=polar0&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=fbaf00&currStreakLabel=fbaf00&sideNums=fbaf00&ring=fbaf00)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=polar0&layout=compact&theme=highcontrast&hide_border=true&title_color=fbaf00&hide=html,css,shell,dockerfile)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=polar0&layout=compact&theme=highcontrast&hide_border=true&title_color=fbaf00&hide=html,css,shell,dockerfile)](https://github.com/anuraghazra/github-readme-stats)
 
 > Credit Anurag Hazra & Jonah Lawrence
 
