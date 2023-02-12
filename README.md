@@ -89,6 +89,6 @@ I've graduated with a Master's Degree in Music Production, and I wrote a researc
 [threejs]: https://img.shields.io/badge/Three.js-000000.svg?style=for-the-badge&logo=threedotjs&logoColor=white
 [arweave]: https://custom-icon-badges.demolab.com/badge/Arweave-222326?style=for-the-badge&logo=arweave-
 [bundlr]: https://custom-icon-badges.demolab.com/badge/Bundlr-CEE1E4?style=for-the-badge&logo=bundlr&logoColor=black
-[r3f]: https://custom-icon-badges.demolab.com/badge/R3F-000000?style=for-the-badge&logo=pmndrs
-[zustand]: https://custom-icon-badges.demolab.com/badge/Zustand-000000?style=for-the-badge&logo=pmndrs
+[r3f]: https://custom-icon-badges.demolab.com/badge/R3F-000000?style=for-the-badge&logo=pmndrs2-cropped
+[zustand]: https://custom-icon-badges.demolab.com/badge/Zustand-000000?style=for-the-badge&logo=pmndrs2-cropped
 
