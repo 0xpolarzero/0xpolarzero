@@ -1,23 +1,20 @@
-## Hi there 👋
+## Hi there
 
-I'm currently learning Solidity/Smart Contracts development, on my journey to becoming a Full-Stack Web3 developer.
+I'm a Solidity smart contracts & Web-based 3D developer. I mostly experiment with new technologies, especially related to decentralized systems and immersive experiences.
 
-I'm working with JavaScript, React.js, Hardhat, Chainlink, Alchemy, Moralis, TheGraph, IPFS... I'm rather comfortable with Three.js & highly passionate about Web-based immersive audio engines such as Atmoky. Besides, I'm fairly familiar with test-driven development, for instance with Mocha & Chai.
+I have a strong belief in open-source, and I actively work to promote true accessibility and user-friendly solutions. You can find all my projects and experiments, past and present, here or more comprehensively showcased [on my personal website](https://polarzero.xyz).
 
-I'm up for any opportunity that will allow me to grow my skills, collaborate, and help with anything I've learned so far!
+I've graduated with a Master's Degree in Music Production, and I wrote a research paper on the applications of immersive audio in new technologies related to virtual worlds, such as the "metaverse".
 
-I've just graduated with a Master's Degree in Music Production, and I wrote a research paper on the applications of immersive audio in new technologies related to virtual worlds, such as the Metaverse. This is one of the main drivers of this drastic shift, which has brought (back) my passion for Web development, along with an immense enthusiasm for everything that gravitates around Web3.
+💬 You can reach me on [Twitter](https://twitter.com/0xpolarzero). Feel free to ask me about anything.
 
-💬 You can reach me on [Twitter](https://twitter.com/0xpolarzero). Feel free to ask me about anything!
-
-## My skills
+## Tech stack
 
 [![JavaScript]](https://developer.mozilla.org/fr/docs/Web/JavaScript)
 [![Solidity]](https://soliditylang.org/)
 [![NodeJS]](https://nodejs.org/)
 [![Hardhat]](https://hardhat.org/)
 [![EthersJS]](https://docs.ethers.io/v5/)
-[![Web3JS]](https://web3js.readthedocs.io/)
 [![Chai]](https://www.chaijs.com/)
 [![Mocha]](https://mochajs.org/)
 [![Ganache]](https://trufflesuite.com/ganache/)
@@ -26,14 +23,17 @@ I've just graduated with a Master's Degree in Music Production, and I wrote a re
 [![Alchemy]](https://www.alchemy.com/)
 [![TheGraph]](https://thegraph.com/en/)
 [![Moralis]](https://moralis.io/)
-[![IPFS]](https://ipfs.tech/)
-[![Rainbow]](https://www.rainbowkit.com/)
 [![Wagmi]](https://wagmi.sh/)
+[![IPFS]](https://ipfs.tech/)
+[![Arweave]](https://www.arweave.org/)
+[![Bundlr]]([https://ipfs.tech/](https://bundlr.network/))
 
 [![ReactJS]](https://reactjs.org/)
 [![NextJS]](https://nextjs.org/)
-[![Threejs]](https://threejs.org/)
 [![Antd]](https://ant.design/)
+[![Threejs]](https://threejs.org/)
+[![R3F]](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction)
+[![Zustand]](https://docs.pmnd.rs/zustand/getting-started/introduction)
 
 <!-- ## Objectives -->
 
@@ -87,4 +87,8 @@ I've just graduated with a Master's Degree in Music Production, and I wrote a re
 [thegraph]: https://custom-icon-badges.demolab.com/badge/TheGraph-0C0A1C?style=for-the-badge&logo=thegraph&logoColor=white
 [apollographql]: https://img.shields.io/badge/Apollo%20GraphQL-311C87.svg?style=for-the-badge&logo=Apollo-GraphQL&logoColor=white
 [threejs]: https://img.shields.io/badge/Three.js-000000.svg?style=for-the-badge&logo=threedotjs&logoColor=white
+[arweave]: https://custom-icon-badges.demolab.com/badge/Arweave-222326?style=for-the-badge&logo=arweave-
+[bundlr]: https://custom-icon-badges.demolab.com/badge/Bundlr-CEE1E4?style=for-the-badge&logo=bundlr&logoColor=black
+[r3f]: https://custom-icon-badges.demolab.com/badge/R3F-000000?style=for-the-badge&logo=pmndrs
+[zustand]: https://custom-icon-badges.demolab.com/badge/Zustand-000000?style=for-the-badge&logo=pmndrs
 
