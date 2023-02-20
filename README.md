@@ -8,7 +8,7 @@ I've graduated with a Master's Degree in Music Production, and I wrote a researc
 
 You can reach me on [Twitter](https://twitter.com/0xpolarzero). Feel free to ask about anything.
 
-[> Resume](https://polarzero-v3.vercel.app/docs/RESUME_EN_2023_feb.pdf)
+[My Resume](https://polarzero-v3.vercel.app/docs/RESUME_EN_2023_feb.pdf)
 
 <!--
 ## Tech stack
