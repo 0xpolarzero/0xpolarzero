@@ -6,7 +6,9 @@ I have a strong belief in open-source, and I actively work to promote true acces
 
 I've graduated with a Master's Degree in Music Production, and I wrote a research paper on the applications of immersive audio in new technologies related to virtual worlds, such as the "metaverse".
 
-You can reach me on [Twitter](https://twitter.com/0xpolarzero). Feel free to ask me about anything.
+You can reach me on [Twitter](https://twitter.com/0xpolarzero). Feel free to ask about anything.
+
+[> Resume](https://polarzero-v3.vercel.app/docs/RESUME_EN_2023_feb.pdf)
 
 <!--
 ## Tech stack
