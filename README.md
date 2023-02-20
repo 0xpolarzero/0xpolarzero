@@ -6,7 +6,7 @@ I have a strong belief in open-source, and I actively work to promote true acces
 
 I've graduated with a Master's Degree in Music Production, and I wrote a research paper on the applications of immersive audio in new technologies related to virtual worlds, such as the "metaverse".
 
-💬 You can reach me on [Twitter](https://twitter.com/0xpolarzero). Feel free to ask me about anything.
+You can reach me on [Twitter](https://twitter.com/0xpolarzero). Feel free to ask me about anything.
 
 <!--
 ## Tech stack
@@ -42,8 +42,6 @@ I've graduated with a Master's Degree in Music Production, and I wrote a researc
 
 <!-- [![Typescript]](https://www.typescriptlang.org/) -->
 
-## My progress
-
 [![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=0xpolarzero&show_icons=true&theme=highcontrast&hide_border=true&title_color=fbaf00&icon_color=fbaf00)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=0xpolarzero&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=fbaf00&currStreakLabel=fbaf00&sideNums=fbaf00&ring=fbaf00)](https://git.io/streak-stats)
@@ -52,21 +50,15 @@ I've graduated with a Master's Degree in Music Production, and I wrote a researc
 
 > Credit Anurag Hazra & Jonah Lawrence
 
-## My Socials
+## Contact
 
 [![Website][website]](https://polarzero.xyz/)
 [![Twitter][twitter]](https://twitter.com/0xpolarzero/)
-[![LinkedIn][linkedin]](https://www.linkedin.com/in/antton-lepretre/)
-[![Hashnode][hashnode]](https://polarzero.hashnode.dev/) <br />
 [![0xpolarzero@gmail.com][email]](mailto:0xpolarzero@gmail.com)
-[![polarzero.eth][ethereum]](https://opensea.io/polarzero)
 
-[website]: https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
+[website]: https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white
 [twitter]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
-[linkedin]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-[hashnode]: https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white
 [email]: https://img.shields.io/badge/0xpolarzero@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white
-[ethereum]: https://img.shields.io/badge/polarzero.eth-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white
 [solidity]: https://custom-icon-badges.demolab.com/badge/Solidity-3C3C3D?style=for-the-badge&logo=solidity&logoColor=white
 [remix]: https://custom-icon-badges.demolab.com/badge/Remix-222335?style=for-the-badge&logo=remix-min&logoColor=white
 [chainlink]: https://img.shields.io/badge/Chainlink-375BD2.svg?style=for-the-badge&logo=Chainlink&logoColor=white
