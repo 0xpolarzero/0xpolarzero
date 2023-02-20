@@ -8,6 +8,7 @@ I've graduated with a Master's Degree in Music Production, and I wrote a researc
 
 💬 You can reach me on [Twitter](https://twitter.com/0xpolarzero). Feel free to ask me about anything.
 
+<!--
 ## Tech stack
 
 [![JavaScript]](https://developer.mozilla.org/fr/docs/Web/JavaScript)
@@ -34,6 +35,8 @@ I've graduated with a Master's Degree in Music Production, and I wrote a researc
 [![Threejs]](https://threejs.org/)
 [![R3F]](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction)
 [![Zustand]](https://docs.pmnd.rs/zustand/getting-started/introduction)
+
+-->
 
 <!-- ## Objectives -->
 
