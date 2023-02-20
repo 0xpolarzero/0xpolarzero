@@ -60,7 +60,7 @@ You can reach me on [Twitter](https://twitter.com/0xpolarzero). Feel free to ask
 [Resume](https://polarzero-v3.vercel.app/docs/RESUME_EN_2023_feb.pdf)
 
 [website]: https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white
-[twitter]: [[https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white](https://twitter.com/0xpolarzero)](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+[twitter]: https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white
 [email]: https://img.shields.io/badge/0xpolarzero@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [solidity]: https://custom-icon-badges.demolab.com/badge/Solidity-3C3C3D?style=for-the-badge&logo=solidity&logoColor=white
 [remix]: https://custom-icon-badges.demolab.com/badge/Remix-222335?style=for-the-badge&logo=remix-min&logoColor=white
