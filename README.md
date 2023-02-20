@@ -8,8 +8,6 @@ I've graduated with a Master's Degree in Music Production, and I wrote a researc
 
 You can reach me on [Twitter](https://twitter.com/0xpolarzero). Feel free to ask about anything.
 
-[My Resume](https://polarzero-v3.vercel.app/docs/RESUME_EN_2023_feb.pdf)
-
 <!--
 ## Tech stack
 
@@ -52,11 +50,12 @@ You can reach me on [Twitter](https://twitter.com/0xpolarzero). Feel free to ask
 
 > Credit Anurag Hazra & Jonah Lawrence
 
-## Contact
+## Links
 
 [![Website][website]](https://polarzero.xyz/)
 [![Twitter][twitter]](https://twitter.com/0xpolarzero/)
 [![0xpolarzero@gmail.com][email]](mailto:0xpolarzero@gmail.com)
+[Resume](https://polarzero-v3.vercel.app/docs/RESUME_EN_2023_feb.pdf)
 
 [website]: https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white
 [twitter]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
