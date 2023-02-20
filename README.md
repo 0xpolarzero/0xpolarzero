@@ -56,7 +56,7 @@ You can reach me on [Twitter](https://twitter.com/0xpolarzero). Feel free to ask
 
 Portfolio: [polarzero.xyz](https://polarzero.xyz/)
 
-Resume: [polarzero.xyz/docs/resume](https://polarzero-v3.vercel.app/docs/RESUME_EN_2023_feb.pdf)
+Resume: [polarzero.xyz/docs/resume](https://polarzero-v3.vercel.app/docs/resume)
 
 Twitter: [@0xpolarzero](https://twitter.com/0xpolarzero/)
 
