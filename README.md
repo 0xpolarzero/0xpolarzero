@@ -42,6 +42,7 @@ You can reach me on [Twitter](https://twitter.com/0xpolarzero). Feel free to ask
 
 <!-- [![Typescript]](https://www.typescriptlang.org/) -->
 
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=0xpolarzero&show_icons=true&theme=highcontrast&hide_border=true&title_color=fbaf00&icon_color=fbaf00)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=0xpolarzero&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=fbaf00&currStreakLabel=fbaf00&sideNums=fbaf00&ring=fbaf00)](https://git.io/streak-stats)
@@ -49,6 +50,7 @@ You can reach me on [Twitter](https://twitter.com/0xpolarzero). Feel free to ask
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=0xpolarzero&layout=compact&theme=highcontrast&hide_border=true&title_color=fbaf00&hide=html,css,shell,dockerfile)](https://github.com/anuraghazra/github-readme-stats)
 
 > Credit Anurag Hazra & Jonah Lawrence
+-->
 
 ## Links
 
