@@ -54,9 +54,9 @@ You can reach me on [Twitter](https://twitter.com/0xpolarzero). Feel free to ask
 
 ## Links
 
-[![Website][website]](https://polarzero.xyz/)
-[![Twitter][twitter]](https://twitter.com/0xpolarzero/)
-[![0xpolarzero@gmail.com][email]](mailto:0xpolarzero@gmail.com)
+[Portfolio](https://polarzero.xyz/)
+[Twitter](https://twitter.com/0xpolarzero/)
+[Email](mailto:0xpolarzero@gmail.com)
 [Resume](https://polarzero-v3.vercel.app/docs/RESUME_EN_2023_feb.pdf)
 
 [website]: https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white
