@@ -60,7 +60,7 @@ Resume: [polarzero.xyz/docs/resume](https://polarzero-v3.vercel.app/docs/resume)
 
 Twitter: [@0xpolarzero](https://twitter.com/0xpolarzero/)
 
-Email: [0xpolarzero@gmail.com](mailto:0xpolarzero@gmail.com)
+Email: [contact@polarzero.xyz](mailto:contact@polarzero.xyz)
 
 
 [website]: https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white
