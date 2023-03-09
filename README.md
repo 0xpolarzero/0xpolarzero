@@ -6,6 +6,8 @@ I have a strong belief in open-source, and I actively work to promote true acces
 
 I've graduated with a Master's Degree in Music Production, and I wrote a research paper on the applications of immersive audio in new technologies related to virtual worlds, such as the "metaverse".
 
+I have expertise working with Chainlink-related solutions (data feeds, VRF, Functions, Automations), and I'm an advocate for truly secure and trust-minimized processes in smart contracts and DApps.
+
 You can reach me on [Twitter](https://twitter.com/0xpolarzero). Feel free to ask about anything.
 
 <!--
