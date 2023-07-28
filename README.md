@@ -1,8 +1,8 @@
 ## Hi there
 
-I'm a Solidity smart contracts & Web-based 3D developer. I mostly experiment with new technologies, especially related to decentralized systems and immersive experiences.
+I'm a Solidity smart contracts developer & security researcher. I mostly experiment with new technologies, especially related to decentralized systems and immersive experiences.
 
-I have a strong belief in open-source, and I actively work to promote true accessibility and user-friendly solutions. You can find all my projects and experiments, past and present, here or more comprehensively showcased [on my personal website](https://polarzero.xyz).
+I have a strong belief in open-source, and I actively work to promote true accessibility and user-friendly solutions. You can find all my experiments, audits & articles, past and present, comprehensively showcased [on my personal website](https://polarzero.xyz).
 
 I've graduated with a Master's Degree in Music Production, and I wrote a research paper on the applications of immersive audio in new technologies related to virtual worlds, such as the "metaverse".
 
