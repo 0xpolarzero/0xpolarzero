@@ -1,12 +1,18 @@
 ## Hi there
 
-I'm polarzero, a Solidity smart contracts developer & security researcher.
+I'm a Solidity smart contracts developer & security researcher.
 
-I have a strong belief in open-source, and I actively work to promote true accessibility and user-friendly solutions, especially when it comes to developing secure and optimized smart contracts and applications. You can find all my experiments, reviews & articles, comprehensively showcased [on my personal website](https://polarzero.xyz).
+I’m proficient with Solidity, Javascript/Typescript and NodeJS, as well as Foundry and Hardhat.
 
-I have expertise working with Chainlink-related solutions (data feeds, VRF, Functions, Automations), and I'm an advocate for truly secure and trust-minimized processes in smart contracts and DApps.
+Most of the time, I provide security services: unit and integration testing, fuzzing/invariants testing (Foundry, Echidna), formal verification campaigns (Certora, Halmos).
 
-You can reach me on [Twitter](https://twitter.com/0xpolarzero) or [by email](mailto:contact@polarzero.xyz), if you need a quote or if you would like to ask about anything.
+My expertise also extends to Chainlink-related solutions, including data feeds, VRF, Functions, Automations, which aligns perfectly with my appreciation for trust-minimized processes.
+
+I have a strong belief in open-source, and I actively work to promote true accessibility and user-friendly solutions, especially when it comes to developing secure and optimized smart contracts and applications.
+
+You can visit [my website](https://polarzero.xyz) to see my writing, portfolio, or to request a quote.
+
+You can reach me [on Twitter](https://twitter.com/0xpolarzero) or [by email (contact@polarzero.xyz)](mailto:contact@polarzero.xyz) if you would like to ask about anything.
 
 <!--
 ## Tech stack
