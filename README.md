@@ -1,14 +1,12 @@
 ## Hi there
 
-I'm a Solidity smart contracts developer & security researcher.
+I'm an EVM developer. Specifically, I spend most of my time writing smart contracts (Solidity, Foundry/Hardhat), working on frontend interfaces with blockchain integration (Typescript, Nextjs, Viem/Wagmi, Tevm...), with a focus on tooling/open source utilities.
 
-I’m proficient with Solidity, Javascript/Typescript and NodeJS, as well as Foundry and Hardhat.
-
-Most of the time, I provide security services: unit and integration testing, fuzzing/invariants testing (Foundry, Echidna), formal verification campaigns (Certora, Halmos).
+I occasionally carry out dedicated fuzzing/invariants test suites (Foundry, Echidna), as well as formal verification campaigns (Certora, Halmos).
 
 My expertise also extends to Chainlink-related solutions, including data feeds, VRF, Functions, Automations, which aligns perfectly with my appreciation for trust-minimized processes.
 
-I have a strong belief in open-source, and I actively work to promote true accessibility and user-friendly solutions, especially when it comes to developing secure and optimized smart contracts and applications.
+I have a strong belief in open-source, and I actively work to promote true accessibility and secure, optimized and user-friendly solutions.
 
 You can visit [my website](https://polarzero.xyz) to see my writing, portfolio, or to request a quote.
 
