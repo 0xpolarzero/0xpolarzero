@@ -1,6 +1,6 @@
 ## Hi there
 
-I'm an EVM developer. Specifically, I spend most of my time writing smart contracts (Solidity, Foundry/Hardhat), working on frontend interfaces with blockchain integration (Typescript, Nextjs, Viem/Wagmi, Tevm...), with a focus on tooling/open source utilities.
+I'm an EVM developer. Specifically, I spend most of my time writing smart contracts (Solidity, Foundry/Hardhat), working on frontend interfaces with blockchain integration (Typescript, Nextjs, Viem/Wagmi, Tevm...), with a focus on tooling/open-source utilities.
 
 I occasionally carry out dedicated fuzzing/invariants test suites (Foundry, Echidna), as well as formal verification campaigns (Certora, Halmos).
 
