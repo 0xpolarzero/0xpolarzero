@@ -1,7 +1,5 @@
-Most of my experience as a SE is in AI and blockchain, and nearly all of my work has been open source, whether for a company, on contract, or independently. My current focus is on working sensibly with AI: refining my workflows as the core harness for doing good work, without getting one-shot by obsessive AI optimization or losing sight of architecture, design, product, and taste.
+Software engineer. Mostly AI and blockchain, nearly all of it open source.
 
-I’m interested in emergent capabilities, both in how frontier models behave and in how people evolve as they start using AI seriously. I try to keep as much skin in the game as possible by experimenting myself, discussing with peers I respect, and paying attention to early shifts in DevX, UX, tooling, interfaces, and product habits. Adjacent interests include local-first apps and capabilities, fully onchain games, and developer tooling.
+I'm currently building at **[Amont Labs](https://github.com/amontlabs)**, where I try to recognize early shifts in model capabilities and user behavior, and turn them into useful apps and libraries.
 
-The more I learn, the more the engineering side becomes intuitive, and the more I can think about product and intent. I’m trying to become more product-minded while keeping the discipline and curiosity to tackle unfamiliar problems with a good methodology.
-
-You can visit [my website (polarzero.xyz)](https://polarzero.xyz) to see my work, projects & writing. Feel free to reach out [on Twitter (@0xpolarzero)](https://x.com/0xpolarzero) or by email (contact@polarzero.xyz) for anything.
+[polarzero.xyz](https://polarzero.xyz) · [@0xpolarzero](https://x.com/0xpolarzero) · contact@polarzero.xyz
